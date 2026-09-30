@@ -4,8 +4,7 @@ insert @ feature1
 insert @ feature1
 
 Diese Änderung wurde auf einem eigenen Branch erstellt.
-
-insert @ main
-insert @ main
-
 Hallo zusammen
+Hallo zusammen
+
+neue Zeile
